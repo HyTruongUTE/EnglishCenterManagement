@@ -1,0 +1,732 @@
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.Form1.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FNhanVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngHocVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCInfo.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngGiaoVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowInfoNhanVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowTeacher.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDeleteAndEditStudent.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FHocVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FNhanVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowInfoNhanVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FFuntionStudent.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowTeacher.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FStudentAdd.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCInfo.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngGiaoVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngHocVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\BaiNhom_DuPhong\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDeleteAndEditStudent.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FHocVien.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FNhanVien.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowInfoNhanVien.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FFuntionStudent.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowTeacher.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FStudentAdd.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCInfo.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngGiaoVien.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngHocVien.resources
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+C:\Users\vinh2\Downloads\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FHocVien.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FNhanVien.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowInfoNhanVien.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowTeacher.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FStudentConFirm.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCInfo.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngGiaoVien.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngHocVien.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FFuntionStudentInfo.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FScoreStudent.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabBtnStudent.resources
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FHocVien.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FNhanVien.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowInfoNhanVien.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FFuntionStudentInfo.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FShowTeacher.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FStudentConFirm.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FScoreStudent.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabBtnStudent.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCInfo.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngGiaoVien.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.UCMngHocVien.resources
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+E:\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\admin\Documents\GitHub\QL_TrungTamTiengAnh\QL_TTTA_01\obj\Debug\QL_TTTA_01.FGiaoVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FStudentConFirm.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FScoreStudent.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabBtnStudent.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FStudent.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FGV.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachMonHoc.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMonHoc.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiMonHoc.resources
+D:\TranHuuQuocHuy-21110888\hk2_2\Windows Programing\Bai_Nhom\New folder\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachMonHocDaDK.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_TTTA_01\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\CNTT\LapTrinhWindow\Git\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FInformation.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfomation.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ucTableItem.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfomation.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ucTableItem.resources
+E:\WinForm\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInformation.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInformation.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.CalendarForUser.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.UcTimeTableItem.resources
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\vinh2\Downloads\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.CalendarForUser.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.UcTimeTableItem.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FHocBong.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInformation.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FBonus.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.Fnotice.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.UcNoticeItem.resources
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Newtonsoft.Json.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\RestSharp.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Buffers.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.CodeDom.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.Odbc.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.OleDb.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.EventLog.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Drawing.Common.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Packaging.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Ports.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Memory.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Numerics.Vectors.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.AccessControl.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Permissions.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Principal.Windows.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceModel.Syndication.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Threading.AccessControl.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.Fody.CopyLocal.cache
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\CNTT\LapTrinhWindow\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartGiaoVien.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Newtonsoft.Json.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\RestSharp.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Buffers.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.CodeDom.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.Odbc.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.OleDb.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.EventLog.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Drawing.Common.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Packaging.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Ports.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Memory.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Numerics.Vectors.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.AccessControl.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Permissions.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Principal.Windows.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceModel.Syndication.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Threading.AccessControl.xml
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.CalendarForUser.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.UcTimeTableItem.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartGiaoVien.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FBonus.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FHocBong.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInformation.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.FNotice.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.UcNoticeItem.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.Fody.CopyLocal.cache
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\21110727_NguyenQuangVinh\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartHocVien.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Newtonsoft.Json.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\RestSharp.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Buffers.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.CodeDom.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.Odbc.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.OleDb.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.EventLog.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Drawing.Common.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Packaging.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Ports.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Memory.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Numerics.Vectors.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.AccessControl.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Permissions.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Principal.Windows.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceModel.Syndication.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Threading.AccessControl.xml
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.CalendarForUser.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.UcTimeTableItem.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartGiaoVien.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartHocVien.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FBonus.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FHocBong.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInformation.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.FNotice.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.UcNoticeItem.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.Fody.CopyLocal.cache
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+D:\CNTT\LapTrinhWindow\Đồ án\QL_EnglishCenter (4)\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.UcSetLopItem.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.CalendarForUser.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.UcTimeTableItem.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartGiaoVien.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartHocVien.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FBonus.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FHocBong.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInformation.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.FNotice.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.UcNoticeItem.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.UcSetLopItem.resources
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Newtonsoft.Json.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\RestSharp.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Buffers.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.CodeDom.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.Odbc.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.OleDb.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.EventLog.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Drawing.Common.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Packaging.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Ports.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Memory.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Numerics.Vectors.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.AccessControl.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Permissions.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Principal.Windows.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceModel.Syndication.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Threading.AccessControl.xml
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.Fody.CopyLocal.cache
+E:\New folder\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe.config
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.exe
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\QL_TTTA_01.pdb
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\Newtonsoft.Json.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\RestSharp.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Buffers.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.CodeDom.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.Odbc.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.OleDb.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Data.SqlClient.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.EventLog.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Drawing.Common.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Packaging.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.IO.Ports.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Memory.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Numerics.Vectors.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.AccessControl.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Permissions.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Security.Principal.Windows.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceModel.Syndication.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\bin\Debug\System.Threading.AccessControl.xml
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.AssemblyReference.cache
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.SuggestedBindingRedirects.cache
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.CalendarForUser.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Calendar.UcTimeTableItem.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartGiaoVien.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.ChartHocVien.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FBonus.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FHocBong.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FSalary.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FScore.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSach.FTuition.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInformation.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FormDungChung.FHomePage.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDangKiKhoaHoc.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachGV.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachLopHoc.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHoc.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachKhoaHocDaDK.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKetQuaHocTap.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLogin.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FLopHoc.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FKhoaHoc.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FInfo.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FMain.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.FDanhSachHocVien.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.NhanVien.FTabFormBtn.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.FNotice.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Message.UcNoticeItem.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.Properties.Resources.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.UcSetLopItem.resources
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.GenerateResource.cache
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe.licenses
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CoreCompileInputs.cache
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.Fody.CopyLocal.cache
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.csproj.CopyComplete
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.exe
+D:\UTE\Sophomore\HK2\WindowForm\Winform's Project Final\QL_EnglishCenter\QL_TTTA_01\obj\Debug\QL_TTTA_01.pdb
